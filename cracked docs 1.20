@@ -1,0 +1,14 @@
+#Before trying to crack,you need to know the following issues#
+1.Are you just for learning by yourself,instead of deceiving users who don't know how to do it?
+    If yes,I hope you can consciously leave this docs
+2.If you do not have an account in the renewal and basic knowledge about the web.Then you can leave
+    If you don't have a foundation,you can't read it and you don't need to waste time
+
+#About cracking method#
+Extract the user's private key and load the server public key,cheat the verification server,and use the reorganization tool to load onetap in blocks to complete a series of cracking things
+Write so much first,and I will fill it up slowly when I have time
+
+Docs By YoozTea Form GitHub
+转载不标明出处你妈死了
+Reprinting does not indicate the source, your mother is dead
+再印刷はソースを示していません、あなたの母親は死んでいます
